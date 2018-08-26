@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Вот и я!</h1>
+    <h1>Вот и ты!</h1>
 </body>
 </html>

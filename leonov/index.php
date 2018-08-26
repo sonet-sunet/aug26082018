@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Этот файл сделал Паша Леонов!</h1>
+    <h1>Вот и я!</h1>
 </body>
 </html>

@@ -5,10 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>эТОЯ </h1>
+    <h1>Го все на шашлыки</h1>
     <p>bla bla bla</p>
-    <blockquote>go drink beer</blockquote>
+    <blockquote>Гиви</blockquote>
 </body>
 </html>

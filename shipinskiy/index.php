@@ -8,5 +8,7 @@
 </head>
 <body>
     <h1>эТОЯ </h1>
+    <p>bla bla bla</p>
+    <blockquote>go drink beer</blockquote>
 </body>
 </html>

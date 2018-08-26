@@ -7,7 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Этот файл сделал Андрей Клемешов</h1>
-    <p>привет</p>
+    
 </body>
 </html>
